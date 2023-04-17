@@ -1,4 +1,3 @@
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Deep-learning-on-pneumonia-xray-data/blob/main/CNN_on_Pneumonia_Xray_data.ipynb)
 [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Patch_Camelyon_machinelearning/blob/main/Patch_Camelyon_machinelearning.ipynb)
 
 # Patch Camelyon - machine learning project
