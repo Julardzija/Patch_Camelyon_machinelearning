@@ -1,1 +1,9 @@
-# Patch_Camelyon_machinelearning
+# Patch Camelyon - machine learning project
+This project is on the patch camelyon dataset which is a challenging image classification dataset. It consists of 327.680 color images (96 x 96px) extracted from histopathologic scans of lymph node sections. Each image is annoted with a binary label indicating presence of metastatic tissue. 
+
+## Parts involved
+The notebook can be separated into following parts
+1. Classifying the images with shallow learning methods (using support vector machines, random forests and boosting)
+2. CNN base model
+3. Optimizing on the CNN model.
+
